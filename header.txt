@@ -1,2 +1,4 @@
 Some text for herader
-Changes from first
+Changes from <master>
+Changes from <first>
+
